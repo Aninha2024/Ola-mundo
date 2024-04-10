@@ -3,4 +3,4 @@
 
 Repositório criado durande uma aula do curso em vídeo com o professor GG.
 
-Essa linha eu adicionei diretament eno GH.
+Essa linha eu adicionei diretamente no GH.
